@@ -35,7 +35,7 @@
   <img src="https://user-images.githubusercontent.com/89003923/210625104-1fb5acfc-be1c-43dd-9bb6-83fbb97116e4.png"width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/89003923/210625243-a5727688-2513-4b21-b039-97d0dc1bf7df.png"width="40" height="40"/>
 </p>
-## Professional skills:
+## Tools:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
@@ -43,8 +43,8 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuang3042&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="xuang3042" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=xuang3042&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="xuang3042" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangnghia1110&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="quangnghia1110"  width="200" height="200"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=quangnghia1110&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="quangnghia1110" width="200" height="200" />
 </p>
  
  
