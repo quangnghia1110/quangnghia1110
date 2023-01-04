@@ -1,6 +1,6 @@
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1000" height="300" />
-<h1 align="center">Hi 👋, I'm Ngo Quang Nghia</h1>
-<p align="right"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1000" height="700" />
+<h1 align="center">Hi 👋, I'm Ngô Quang Nghĩa</h1>
+<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
 <img align ="right" alt = "Coding" width="400" src="https://camo.githubusercontent.com/e278cbf655da98c004011927c9b4ef9ace0e73c9b8a41892b778bbe03c045379/68747470733a2f2f637373706f696e743130312e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f446576656c6f7065722d6f6e2d6c6170746f702e676966">
 
