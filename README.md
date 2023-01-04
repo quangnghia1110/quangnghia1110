@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 <h1 align="center">Hi 👋, I'm Ngo Quang Nghia</h1>
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
+<p align="right"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
 <img align ="right" alt = "Coding" width="400" src="https://camo.githubusercontent.com/e278cbf655da98c004011927c9b4ef9ace0e73c9b8a41892b778bbe03c045379/68747470733a2f2f637373706f696e743130312e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f446576656c6f7065722d6f6e2d6c6170746f702e676966">
 
@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/ngh%C4%A9a-ng%C3%B4-quang-62739024b/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/nghia.quang.14418/" alt="Facebook">
+  <a href="https://www.facebook.com/quangnghia559/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/quangnghia1110" alt="Github">
