@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangnghia1110&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="quangnghia1110"  width="500" height="500"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangnghia1110&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="quangnghia1110"/>&nbsp;
   
 </p>
  
