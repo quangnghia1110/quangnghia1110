@@ -5,6 +5,7 @@
 <img align ="right" alt = "Coding" width="400" src="https://camo.githubusercontent.com/e278cbf655da98c004011927c9b4ef9ace0e73c9b8a41892b778bbe03c045379/68747470733a2f2f637373706f696e743130312e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f446576656c6f7065722d6f6e2d6c6170746f702e676966">
 
 - ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn)
+- 🌱 I’m currently learning **Software Engineer**
 - 👨‍💻 All of my projects are available at [https://github.com/quangnghia1110](https://github.com/quangnghia1110)
 - 📫 How to reach me **ngoquangnghia111003@gmail.com**
 
@@ -24,12 +25,8 @@
   </a>
 </p>
 
-## Skills:
+## Professional skills:
 <p align="center">
-
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -38,7 +35,11 @@
   <img src="https://user-images.githubusercontent.com/89003923/210625104-1fb5acfc-be1c-43dd-9bb6-83fbb97116e4.png"width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/89003923/210625243-a5727688-2513-4b21-b039-97d0dc1bf7df.png"width="40" height="40"/>
 </p>
-
+## Professional skills:
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
 
  
  
