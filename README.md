@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://rishavchanda.io)
+[![MasterHead](![image](https://user-images.githubusercontent.com/89003923/210620108-5564031c-3bf1-4089-b3a0-e77b8e8e522b.png).jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ngo Quang Nghia</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
