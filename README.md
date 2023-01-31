@@ -42,14 +42,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangnghia1110&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="quangnghia1110" width="500"/>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=quangnghia1110&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="quangnghia1110" />
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quangnghia1110&repo=noctis_minimus" />
-    
-    ![Hoạt động trên Github](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=noctis_minimus_icons=true)
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=quangnghia1110&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="quangnghia1110" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quangnghia1110&theme=dark&show_icons=true)
 
-</a>
 </p>
  
  
