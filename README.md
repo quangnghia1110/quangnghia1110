@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ngô Quang Nghĩa</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h2 align="center">A passionate developer from Vietnam </h2>
-<img align="right" alt="GIF" src="https://hackaday.com/wp-content/uploads/2023/03/AIcoding.jpg?raw=true" width="430" height="224" />
+<img align="right" alt="GIF" src="https://hackaday.com/wp-content/uploads/2023/03/AIcoding.jpg?raw=true" width="300" height="224" />
 - ✍ I'm a student of <i><b>Ho Chi Minh city University of Technology and Education</b></i><br>
 - 👨‍💻 All of my projects are available at https://github.com/quangnghia1110<br>
 - 📫 How to reach me <i><b>ngoquangnghia111003@gmail.com</b></i><br>
