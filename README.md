@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Ngô Quang Nghĩa</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h2 align="center">A passionate developer from Vietnam </h2>
 <img align="right" alt="GIF" src="https://hackaday.com/wp-content/uploads/2023/03/AIcoding.jpg?raw=true" width="430" height="224" />
-- ✍ I'm a student of [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn)<br>
-- 👨‍💻 All of my projects are available at [https://github.com/quangnghia1110](https://github.com/quangnghia1110)
-- 📫 How to reach me **ngoquangnghia111003@gmail.com**
-- 🌱 I’m currently learning **Software Engineer**
-- 🔭 I currently need help to learn advanced **HTML&CSS&Javascript**
-- ⚡ Fact: **Coding With Music**
+<h2 align="center">A passionate developer from Vietnam </h2>
+- ✍ I'm a student of <i><b>Ho Chi Minh city University of Technology and Education</b></i><br>
+- 👨‍💻 All of my projects are available at https://github.com/quangnghia1110<br>
+- 📫 How to reach me <i><b>ngoquangnghia111003@gmail.com</b></i><br>
+- 🌱 I’m currently learning <i><b>Software Engineer</b></i><br>
+- 🔭 I currently need help to learn advanced <i><b>HTML&CSS&Javascript</b></i><br>
+- ⚡ Fact: <i><b>Coding With Music</b></i><br>
 
 ## Professional skills
 <p align="center">
