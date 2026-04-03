@@ -88,10 +88,50 @@ Spring Boot     █████████████████░░░   8
 RESTful API     █████████████████░░░   88%
 MySQL / SQL     ████████████████░░░░   82%
 Salesforce      ██████████████████░░   90%
+
 Redis           ███████████████░░░░░   75%
 Docker / AWS    █████████████░░░░░░░   65%
 Git             █████████████████░░░   85%
 ```
+
+---
+
+## Highlights
+
+<table>
+  <tr>
+    <td align="center"><b>3.61 / 4.0</b><br><sub>GPA — Scholarship Recipient</sub></td>
+    <td align="center"><b>TOEIC 835</b><br><sub>Strong English Proficiency</sub></td>
+    <td align="center"><b>AI & MCP</b><br><sub>Prompt Engineering & Integrations</sub></td>
+    <td align="center"><b>Banking Platform</b><br><sub>Scalable Backend Systems</sub></td>
+  </tr>
+</table>
+
+---
+
+## Projects
+
+### AI Solutions & Prompt Engineering
+- Researched and evaluated **AI tools** (Claude, ChatGPT, Gemini) to propose optimal solutions for the company's workflows
+- Designed and crafted **production-grade prompts** for internal teams, improving automation and developer productivity
+- Built an **AI skill system** with structured knowledge bases, enabling consistent and high-quality AI responses across teams
+- Integrated AI services using **MCP (Model Context Protocol)** servers to connect LLMs with Salesforce, GitHub, Gmail, and internal tools
+- Developed **custom MCP connectors** for seamless data flow between AI agents and enterprise platforms
+
+### Banking Transaction Platform
+- Scalable backend system handling banking-grade transactions with high availability
+- Designed **RESTful APIs** and async pipelines for large-scale data processing
+- **Tech:** Java, Spring Boot, Redis, Message Queue
+
+### HR Management System (Salesforce)
+- Recruitment evaluation workflows and employee performance review system
+- Built on Salesforce platform using **Lightning Web Components** and **Apex**
+- **Tech:** Salesforce, LWC, Apex, REST API
+
+### Microservices Architecture
+- Designed and implemented scalable microservices with caching layers and async processing
+- Improved throughput and reduced latency in production environments
+- **Tech:** Java, Spring Boot, Redis, AWS
 
 ---
 
